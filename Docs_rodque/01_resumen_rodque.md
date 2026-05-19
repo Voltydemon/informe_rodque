@@ -1,0 +1,1 @@
+El dia 12 de Diciembre del 2025, el ministerio de francia sufrio un cyberataque a sus servidores de correo electronico. Mientras duraba la investigacion el gobierno anuncio que reforzó sus medidas de seguridad y sus controles de acceso informatico hacia su personal como respuesta al incidente.
