@@ -4,6 +4,9 @@ Nivel de pensamiento: Flash Extendido
 Mensaje enviado: "me puedes dar mas detalles sobre el ciber ataque al ministerio de francia del dia 12 de diciembre del 2025?"
 Donde se uso: Para complementar la informacion en la carpeta resumen y generalmente obtener mas informacion del cyber ataque 
 
+
+
+
 Promt 02_marco:
 IA consultada: gemini
 Nivel de pensamiento: Flash Extendido
@@ -14,6 +17,8 @@ IA consultada: Gemini
 Nivel de pensamiento: Flash Extendido
 Mensaje enviado: "Pregunta gemini, se sabe si el ciber ataque dejo inoperable ambas base de datos afectadas?"
 Donde se uso: Para complementar y corregir errores durante el desarroyo de la carpeta 2 del markdown.
+
+
 
 Promt 03_delitos:
 IA consultada: Gemini
@@ -30,3 +35,15 @@ IA consultada: Gemini
 Nivel de pensamiento: Flash Extendido
 Mensaje enviado: "Me gustaria mas en si me puedes ayudar en mapear las acciones del detenido durante el hackeo"
 Donde se uso: Se uso para obtener informacion detallada de las acciones que realizo el responsable durante el ataque.
+
+
+
+Promt 4_comparacion:
+
+
+
+Promt 6_datos:
+IA consultada: Gemini
+Nivel de pensamiento: Flash Extendido
+Mensaje enviado: "Gracias gemini, me puedes ayudar ahora con hacer un tratamiento de datos según la Ley 19.628:tipos, distinción personales/sensibles y derechos ARCO en base al caso del hackeo? por favor."
+Donde se uso: En la obtencion de datos segun lo pedido en la rubica y organizar dichos datos obtenidos. 
